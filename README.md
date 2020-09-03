@@ -5,7 +5,9 @@ Welcome to Kotani Pay source code repository! This software enables developers t
 Using this software a developer can connect popular mobile Financial services platforms such as Safaricom's Mpesa with the wallet system to give their users wider on ramp and off ramp options.
 
 Supported Blockchain Protocols: ICON, Celo (with soon to come intergrations with BTC and ETH)
+
 Supported Payment Systems: M-Pesa
+
 Supported USSD Platforms: Africa's Talking
 
 Access the prototype for KotaniPay on the Africa's Talking Sandbox here to try it out:
